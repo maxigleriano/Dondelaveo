@@ -1,0 +1,236 @@
+[
+    {
+      "provider_id": 8,
+      "url": "https://www.netflix.com/",
+      "logo": "http://image.tmdb.org/t/p/original/9A1JSVmSxsyaBK4SUFsYVqbAYfW.jpg",
+      "name": "Netflix"
+    },
+    {
+      "provider_id": 119,
+      "url": "https://www.primevideo.com/",
+      "logo": "http://image.tmdb.org/t/p/original/68MNrwlkpF7WnmNPXLah69CR5cb.jpg",
+      "name": "Prime Video"
+    },
+    {
+        "provider_id": 9,
+        "url": "https://www.primevideo.com/",
+        "logo": "http://image.tmdb.org/t/p/original/68MNrwlkpF7WnmNPXLah69CR5cb.jpg",
+        "name": "Prime Video"
+      },
+    {
+      "provider_id": 337,
+      "url": "https://www.disneyplus.com/",
+      "logo": "http://image.tmdb.org/t/p/original/dgPueyEdOwpQ10fjuhL2WYFQwQs.jpg",
+      "name": "Disney Plus"
+    },
+    {
+      "provider_id": 2,
+      "url": "https://www.apple.com/itunes/",
+      "logo": "http://image.tmdb.org/t/p/original/q6tl6Ib6X5FT80RMlcDbexIo4St.jpg",
+      "name": "Apple iTunes"
+    },
+    {
+      "provider_id": 3,
+      "url": "https://play.google.com/store/movies",
+      "logo": "http://image.tmdb.org/t/p/original/p3Z12gKq2qvJaUOMeKNU2mzKVI9.jpg",
+      "name": "Google Play Movies"
+    },
+    {
+        "provider_id": 118,
+        "url": "",
+        "logo": "http://image.tmdb.org/t/p/original/vAtH6Z6Oq7zCmEGS3Sdu08dxvYZ.jpg",
+        "name": "HBO"
+      },
+    {
+      "provider_id": 11,
+      "url": "https://mubi.com/",
+      "logo": "http://image.tmdb.org/t/p/original/kXQQbZ6ZvTwojzMPivQF9sX0V4y.jpg",
+      "name": "Mubi"
+    },
+    {
+        "provider_id": 6,
+        "url": "https://www.starplus.com/es-ar",
+        "logo": "http://image.tmdb.org/t/p/original/db6NofOblrtYcwH9qXuzyMf68Ao.jpg",
+        "name": "Star Plus"
+    },
+    {
+      "provider_id": 531,
+      "url": "https://www.paramountplus.com/",
+      "logo": "http://image.tmdb.org/t/p/original/pkAHkRhIq3Iu0ZlEhDzbguSlyZF.jpg",
+      "name": "Paramount Plus"
+    },
+    {
+      "provider_id": 384,
+      "url": "https://play.hbomax.com/",
+      "logo": "http://image.tmdb.org/t/p/original/aS2zvJWn9mwiCOeaaCkIh4wleZS.jpg",
+      "name": "HBO Max"
+    },
+    {
+      "provider_id": 339,
+      "url": "https://www.play.movistar.com.ar/",
+      "logo": "http://image.tmdb.org/t/p/original/rgbalNWbAuhWklHH5JAnF53Wjey.jpg",
+      "name": "Movistar Play"
+    },
+    {
+        "provider_id": 167,
+        "url": "https://www.clarovideo.com/argentina/landing",
+        "logo": "http://image.tmdb.org/t/p/original/mzu37NQphDvqN2BHKM0Rwq9Es3r.jpg",
+        "name": "Claro video"
+    },
+    {
+      "provider_id": 350,
+      "url": "https://www.apple.com/apple-tv-plus/",
+      "logo": "http://image.tmdb.org/t/p/original/A3WLxoSkmuxwaQkpfwL6H8WwWwM.jpg",
+      "name": "Apple TV Plus"
+    },
+    {
+      "provider_id": 457,
+      "url": "https://www.vix.com/",
+      "logo": "http://image.tmdb.org/t/p/original/p5RDRIibqNyPq40YU4L7raTaYCb.jpg",
+      "name": "VIX"
+    },
+    {
+      "provider_id": 190,
+      "url": "https://curiositystream.com/",
+      "logo": "http://image.tmdb.org/t/p/original/aWGqR6ERNT6cAlgmtQUMfGFeaFv.jpg",
+      "name": "Curiosity Stream"
+    },
+    {
+      "provider_id": 274,
+      "url": "https://www.qubit.tv/",
+      "logo": "http://image.tmdb.org/t/p/original/tf2XgBpcFy6d2YPEuz7BZ0nadd9.jpg",
+      "name": "QubitTV"
+    },
+    {
+      "provider_id": 521,
+      "url": "https://spamflix.com/",
+      "logo": "http://image.tmdb.org/t/p/original/qc4Aze8HWuVdjUyA1qcOsMZZc6I.jpg",
+      "name": "Spamflix"
+    },
+    {
+      "provider_id": 467,
+      "url": "https://www.directvgo.com/",
+      "logo": "http://image.tmdb.org/t/p/original/lUv4RMq0WDcsePlqKPDwIDS1vCB.jpg",
+      "name": "DIRECTV GO"
+    },
+    {
+      "provider_id": 475,
+      "url": "https://www.docsville.com/",
+      "logo": "http://image.tmdb.org/t/p/original/rre9YaMnTG9xKG8GiCp2NVgg5Rw.jpg",
+      "name": "DOCSVILLE"
+    },
+    {
+      "provider_id": 495,
+      "url": "https://cgood.tv/",
+      "logo": "http://image.tmdb.org/t/p/original/46veKqyFzqexqq9ZuOxdBiIdkMo.jpg",
+      "name": "CGood TV"
+    },
+    {
+      "provider_id": 546,
+      "url": "https://www.wowpresentsplus.com/",
+      "logo": "http://image.tmdb.org/t/p/original/5avC3AeBNARK5J0bV4qZeHtscHk.jpg",
+      "name": "WOW Presents Pus"
+    },
+    {
+      "provider_id": 551,
+      "url": "https://www.magellantv.com/",
+      "logo": "http://image.tmdb.org/t/p/original/1LMwnJAWz045Txz17IUILT5uDDw.jpg",
+      "name": "Magellan TV"
+    },
+    {
+      "provider_id": 554,
+      "url": "https://www.broadwayhd.com/",
+      "logo": "http://image.tmdb.org/t/p/original/sZh3q3C0aVh6TAfuzB0cnKikX7u.jpg",
+      "name": "BroadwayHD"
+    },
+    {
+      "provider_id": 559,
+      "url": "https://filmzie.com/",
+      "logo": "http://image.tmdb.org/t/p/original/nM4igKRYuYRwm9HqWyrKkJgCC7j.jpg",
+      "name": "Filmzie"
+    },
+    {
+        "provider_id": 444,
+        "url": "https://www.dekkoo.com/",
+        "logo": "http://image.tmdb.org/t/p/original/yGUpliz6bsWKCtiY4gbXPXMRamF.jpg",
+        "name": "Dekkoo"
+      },
+      {
+        "provider_id": 21,
+        "url": "https://play.cine.ar/bienvenida/",
+        "logo": "http://image.tmdb.org/t/p/original/yh7mOnHBhAla8wCR3ouFcGHBoqZ.jpg",
+        "name": "CINEAR"
+      },
+    {
+      "provider_id": 31,
+      "url": "https://www.hbogola.com/",
+      "logo": "http://image.tmdb.org/t/p/original/2slPVV21kaPDx0NwjVtcUjdvzXz.jpg",
+      "name": "HBO GO"
+    },
+    {
+      "provider_id": 543,
+      "url": "https://www.cont.ar/",
+      "logo": "http://image.tmdb.org/t/p/original/Cs39G6EVC0fLANVPsW1llpBlvr.jpg",
+      "name": "CONTAR"
+    },
+    {
+      "provider_id": 567,
+      "url": "https://www.truestory.film/",
+      "logo": "http://image.tmdb.org/t/p/original/lJu0mIhHtINFXZy9cQNgsNsQ777.jpg",
+      "name": "True Story"
+    },
+    {
+      "provider_id": 569,
+      "url": "https://americas.dafilms.com/",
+      "logo": "http://image.tmdb.org/t/p/original/p6rM8hC5cytZBgsbCUE7habqH1h.jpg",
+      "name": "DocAlliance Films"
+    },
+    {
+      "provider_id": 575,
+      "url": "https://www.ondemandkorea.com/",
+      "logo": "http://image.tmdb.org/t/p/original/78YqdzXh1paz1vvwflX1a2G1CAT.jpg",
+      "name": "KoreaOnDemand"
+    },
+    {
+    "provider_id": 315,
+      "url": "https://www.hoichoi.tv/viewplans",
+      "logo": "http://image.tmdb.org/t/p/original/tbuhK6KixlsGcW0M59nm92ATLrt.jpg",
+      "name": "Hoichoi"
+    },
+    {
+      "provider_id": 478,
+      "url": "https://www.historyplay.tv/",
+      "logo": "http://image.tmdb.org/t/p/original/dhnniFQVVetlwO5oCYMocvZgeT0.jpg",
+      "name": "History Play"
+    },
+    {
+        "provider_id": 67,
+        "url": "https://www.blim.com/inicio",
+        "logo": "http://image.tmdb.org/t/p/original/wWblrXhNKFl4XxtVBtLxZ8Ss80Z.jpg",
+        "name": "Blim"
+    },
+    {
+        "provider_id": 300,
+        "url": "https://pluto.tv/es/live-tv",
+        "logo": "http://image.tmdb.org/t/p/original/swzSWpmT1zA25vsIrf20d3CTjZD.jpg",
+        "name": "Pluto TV"
+    },
+    {
+        "provider_id": 534,
+        "url": "https://watchargo.com/",
+        "logo": "http://image.tmdb.org/t/p/original/bpn7c7kNnbeNjgx41ruqPsI3iB.jpg",
+        "name": "Argo"
+    },
+    {
+        "provider_id": 43,
+        "url": "https://www.starz.com/es/es/",
+        "logo": "http://image.tmdb.org/t/p/original/pDcaPupcS7YxKce2sQePrq8k1gK.jpg",
+        "name": "Starz"
+    },
+    {
+        "provider_id": 445,
+        "url": "https://www.classixapp.com/",
+        "logo": "http://image.tmdb.org/t/p/original/pO9ebyVEmpCuIsoMgtTnkkcfSTg.jpg",
+        "name": "Classix"
+    }
+]
